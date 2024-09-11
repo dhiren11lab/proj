@@ -1,0 +1,152 @@
+.CART {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.CART .div {
+  background-color: #ffffff;
+  width: 1438px;
+  height: 1630px;
+  position: relative;
+}
+
+.CART .titan-watches-logo {
+  position: absolute;
+  width: 170px;
+  height: 121px;
+  top: 21px;
+  left: 36px;
+  object-fit: cover;
+}
+
+.CART .shield {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 48px;
+  left: 1134px;
+  object-fit: cover;
+}
+
+.CART .text-wrapper {
+  position: absolute;
+  width: 176px;
+  top: 68px;
+  left: 1201px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #bbab1f;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CART .screenshot {
+  position: absolute;
+  width: 362px;
+  height: 261px;
+  top: 152px;
+  left: 498px;
+  object-fit: cover;
+}
+
+.CART .frame {
+  position: absolute;
+  width: 512px;
+  height: 297px;
+  top: 430px;
+  left: 461px;
+}
+
+.CART .text-wrapper-2 {
+  position: absolute;
+  width: 414px;
+  top: -1px;
+  left: 38px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CART .there-is-nothing-in {
+  position: absolute;
+  width: 512px;
+  top: 64px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CART .div-wrapper {
+  position: absolute;
+  width: 245px;
+  height: 85px;
+  top: 155px;
+  left: 96px;
+  background-color: #c3aa52;
+}
+
+.CART .text-wrapper-3 {
+  position: absolute;
+  width: 187px;
+  top: 30px;
+  left: 33px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CART .text-wrapper-4 {
+  position: absolute;
+  width: 323px;
+  top: 252px;
+  left: 57px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CART .img {
+  position: absolute;
+  width: 1438px;
+  height: 558px;
+  top: 737px;
+  left: 0;
+  object-fit: cover;
+}
+
+.CART .screenshot-2 {
+  position: absolute;
+  width: 1438px;
+  height: 246px;
+  top: 1295px;
+  left: 0;
+  object-fit: cover;
+}
+
+.CART .screenshot-3 {
+  position: absolute;
+  width: 1438px;
+  height: 79px;
+  top: 1551px;
+  left: 0;
+  object-fit: cover;
+}

@@ -1,0 +1,320 @@
+.wishlist-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.wishlistwishlist {
+  width: 100%;
+  height: 1275px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.wishlist-screenshot202409032130261 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 214px;
+  position: absolute;
+}
+.wishlist-text10 {
+  top: 220px;
+  left: 26px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text12 {
+  top: 220px;
+  left: 101px;
+  color: rgba(0, 0, 0, 1);
+  width: 37px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text13 {
+  top: 221px;
+  left: 120px;
+  color: rgba(0, 0, 0, 1);
+  width: 126px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text15 {
+  top: 220px;
+  left: 246px;
+  color: rgba(0, 0, 0, 1);
+  width: 34px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text16 {
+  top: 222px;
+  left: 278px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-line2 {
+  top: 330.03753662109375px;
+  left: 57px;
+  width: 1291px;
+  height: 1px;
+  position: absolute;
+}
+.wishlist-line3 {
+  top: 329px;
+  left: 56.052001953125px;
+  width: 519px;
+  height: 1px;
+  position: absolute;
+}
+.wishlist-line4 {
+  top: 330px;
+  left: 368px;
+  width: 517px;
+  height: 1px;
+  position: absolute;
+}
+.wishlist-line10 {
+  top: 850px;
+  left: 53px;
+  width: 315px;
+  height: 1px;
+  position: absolute;
+}
+.wishlist-text18 {
+  top: 400px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 283px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text20 {
+  top: 470px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 236px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text22 {
+  top: 330px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text24 {
+  top: 540px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text26 {
+  top: 610px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text28 {
+  top: 680px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  opacity: 0.70;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-screenshot202409032146491 {
+  top: 461px;
+  left: 483px;
+  width: 438px;
+  height: 343px;
+  position: absolute;
+}
+.wishlist-text30 {
+  top: 504px;
+  left: 951px;
+  color: rgba(0, 0, 0, 1);
+  width: 389px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-text31 {
+  font-weight: 400;
+}
+.wishlist-text33 {
+  font-weight: 400;
+}
+.wishlist-text35 {
+  font-weight: 400;
+}
+.wishlist-rectangle9button {
+  top: 685px;
+  left: 992px;
+  width: 277px;
+  height: 79px;
+  position: absolute;
+}
+.wishlist-text37 {
+  top: 709px;
+  left: 1022px;
+  color: rgba(0, 0, 0, 1);
+  width: 247px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wishlist-screenshot202409032155321 {
+  top: 850px;
+  left: 0px;
+  width: 1440px;
+  height: 425px;
+  position: absolute;
+}
+.wishlist-text39 {
+  top: 266px;
+  left: 693px;
+  color: rgba(0, 0, 0, 1);
+  width: 244px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
